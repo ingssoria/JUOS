@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/HC/avana/.idea/avana.iml" filepath="$USER_HOME$/Desktop/HC/avana/.idea/avana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hc/.idea/hc.iml" filepath="$PROJECT_DIR$/../hc/.idea/hc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../naxsUI/.idea/naxsUI.iml" filepath="$PROJECT_DIR$/../naxsUI/.idea/naxsUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/naxst.iml" filepath="$PROJECT_DIR$/.idea/naxst.iml" />
+    </modules>
+  </component>
+</project>
